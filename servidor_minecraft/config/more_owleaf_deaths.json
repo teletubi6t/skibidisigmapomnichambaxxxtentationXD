@@ -1,0 +1,16 @@
+{
+  "deathRecords": [],
+  "ignoredPlayers": [],
+  "playerLives": {
+    "599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7": 1,
+    "ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd": 1,
+    "3dc7566d-df20-34d3-a4db-a631d4cd4f38": 1
+  },
+  "playerSouls": {
+    "599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7": 0,
+    "ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd": 0,
+    "3dc7566d-df20-34d3-a4db-a631d4cd4f38": 0
+  },
+  "justRevivedPlayers": [],
+  "reviveLocations": {}
+}

@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "3dc7566ddf2034d3a4dba631d4cd4f38"
+	name: "UnMarshelo#3dc7566d"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

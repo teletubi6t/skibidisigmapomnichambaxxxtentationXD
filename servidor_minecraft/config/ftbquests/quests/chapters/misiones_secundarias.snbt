@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misiones_secundarias"
+	group: ""
+	id: "2616B2BC4FB1ADA6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "Misiones Secundarias"
+}

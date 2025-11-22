@@ -1,0 +1,114 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.3): 1763778103665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778106764 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778109856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778112947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778116051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778119139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778122242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778125336 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778128435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778131527 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778134616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778137712 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778140811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778143907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778147000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778150089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.16.3): 1763778165219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.16.3): 1763778168308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+self-try.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+goods-trade.gl.at.ply.gg:4570 => 127.0.0.1:4570 (proto: Udp, port count: 1)
