@@ -1,0 +1,50 @@
+{
+  "deathRecords": [
+    {
+      "playerName": "joaocover",
+      "playerUUID": "ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd",
+      "deathTime": "2025-11-23 21:56:04",
+      "dimension": "minecraft:overworld",
+      "skinTextureData": "joaocover",
+      "skinSignature": "",
+      "hasSkinData": true
+    },
+    {
+      "playerName": "UnMarshelo",
+      "playerUUID": "3dc7566d-df20-34d3-a4db-a631d4cd4f38",
+      "deathTime": "2025-11-23 21:56:33",
+      "dimension": "minecraft:overworld",
+      "skinTextureData": "UnMarshelo",
+      "skinSignature": "",
+      "hasSkinData": true
+    },
+    {
+      "playerName": "Anzu_ara",
+      "playerUUID": "ac52b3cf-fd3c-335b-bd53-67f31375a168",
+      "deathTime": "2025-11-23 22:11:40",
+      "dimension": "minecraft:overworld",
+      "skinTextureData": "Anzu_ara",
+      "skinSignature": "",
+      "hasSkinData": true
+    }
+  ],
+  "ignoredPlayers": [
+    "599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7",
+    "ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd",
+    "ac52b3cf-fd3c-335b-bd53-67f31375a168"
+  ],
+  "playerLives": {
+    "599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7": 11,
+    "ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd": 10,
+    "3dc7566d-df20-34d3-a4db-a631d4cd4f38": 10,
+    "ac52b3cf-fd3c-335b-bd53-67f31375a168": 10
+  },
+  "playerSouls": {
+    "599e70f0-d9f7-39e7-82b1-d7a42d6bd4d7": 10,
+    "ba6ea7b9-8bb3-371d-8923-eb438ff0b8bd": 10,
+    "3dc7566d-df20-34d3-a4db-a631d4cd4f38": 10,
+    "ac52b3cf-fd3c-335b-bd53-67f31375a168": 10
+  },
+  "justRevivedPlayers": [],
+  "reviveLocations": {}
+}

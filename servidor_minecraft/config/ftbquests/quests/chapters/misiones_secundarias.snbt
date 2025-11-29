@@ -1,0 +1,546 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misiones_secundarias"
+	group: ""
+	id: "2616B2BC4FB1ADA6"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "233B2CA9B799747A"
+			rewards: [{
+				id: "2FF1B23301985882"
+				type: "xp_levels"
+				xp_levels: 100
+			}]
+			subtitle: "Las misiones se reinician cada día"
+			tasks: [{
+				id: "7EAA7271A710A757"
+				title: "XP diaria"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "77B148907E6CEEC4"
+			rewards: [{
+				count: 2
+				id: "11EF4422142BB825"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "minecraft:zombie_head"
+				id: "06F42F795CA3BB63"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			id: "4874F68C4E7B4A57"
+			rewards: [{
+				count: 2
+				id: "4B9E746AEC60C453"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: "minecraft:creeper_head"
+				id: "12D8CBEFB5782755"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "55EBC3BB16314965"
+			rewards: [{
+				count: 2
+				id: "439F75D3691D75DE"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				icon: "minecraft:skeleton_skull"
+				id: "05301A1D332662F2"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "58C4C46E0A5C99DC"
+			rewards: [{
+				count: 2
+				id: "1ACE7FC81829D16A"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:spider"
+				icon: "spartanweaponry:spider_head"
+				id: "6DAEAB108103A124"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "0666DA95E9CEDDDE"
+			rewards: [{
+				count: 2
+				id: "5D5521F0E7A5CA17"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:cave_spider"
+				icon: "spartanweaponry:cave_spider_head"
+				id: "4C8BBEA33D79ED1F"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "2FADF247C6ADDB72"
+			rewards: [{
+				count: 2
+				id: "25346E15FC1A913C"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:enderman"
+				icon: "spartanweaponry:enderman_head"
+				id: "4B49D9C60D936171"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			id: "127DC62AF00C49C5"
+			rewards: [{
+				count: 2
+				id: "0E6331C06AF31DD6"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:piglin"
+				icon: "minecraft:piglin_head"
+				id: "5350529714CB745D"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "7F4CA2702A30FD7A"
+			rewards: [{
+				count: 2
+				id: "716932287EA80AAB"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:drowned"
+				icon: "spartanweaponry:drowned_head"
+				id: "3C0177E78910B8CC"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			id: "695E283A6AD37361"
+			rewards: [{
+				count: 3
+				id: "3914B717B857D8F6"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mca:male_zombie_villager"
+				icon: "mca:male_zombie_villager_spawn_egg"
+				id: "4C74E4EF470DAA49"
+				type: "kill"
+				value: 15L
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "71CC160AC26733D3"
+			rewards: [{
+				count: 3
+				id: "61BF7E9E47A412B3"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "mca:female_zombie_villager"
+				icon: "mca:female_zombie_villager_spawn_egg"
+				id: "180CBD70684609B7"
+				type: "kill"
+				value: 15L
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "3EFD0A8A49085A56"
+			rewards: [{
+				count: 2
+				id: "61093FD2C64A906B"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:blaze"
+				icon: "spartanweaponry:blaze_head"
+				id: "6BBCA056EF0B25D6"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "15C721D6E538446D"
+			rewards: [{
+				count: 2
+				id: "0A50B6D1FC73B1A1"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:witch"
+				icon: "spartanweaponry:witch_head"
+				id: "7DDBAB4421D36569"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "6F3FC48E259FD930"
+			rewards: [{
+				count: 2
+				id: "2B2351E3C9A39519"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:magma_cube"
+				icon: "minecraft:magma_cream"
+				id: "41E8C484FABB9485"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "1B7B979B72D8F4AD"
+			rewards: [{
+				count: 2
+				id: "3385CE4170874BBB"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:ravager"
+				icon: "minecraft:saddle"
+				id: "22B9A3498AB7ACD4"
+				type: "kill"
+				value: 10L
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "2762634FC8969020"
+			rewards: [{
+				count: 3
+				id: "533D09BA2CD332A1"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:endermite"
+				id: "53F202F6A60C4203"
+				type: "kill"
+				value: 10L
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			id: "670379622111B666"
+			rewards: [{
+				count: 2
+				id: "477C12C89E039E84"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:stray"
+				icon: {
+					Count: 1
+					id: "minecraft:tipped_arrow"
+					tag: {
+						Potion: "minecraft:slowness"
+					}
+				}
+				id: "22AE54619D7A5CF6"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "7149EA5D724F7B0B"
+			rewards: [{
+				count: 2
+				id: "40EF72A2EF288456"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:wither_skeleton"
+				icon: "minecraft:wither_skeleton_skull"
+				id: "1A4F9FD72D8FEF29"
+				type: "kill"
+				value: 50L
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "076BF56076A7E7FA"
+			rewards: [{
+				count: 2
+				id: "6CBB9CE17F9206A3"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:phantom"
+				icon: "minecraft:phantom_membrane"
+				id: "28EA82AB74866AA8"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "635C0D9E43D8FBA2"
+			rewards: [{
+				count: 2
+				id: "7DD82F16BF87E9DB"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:ghast"
+				icon: "minecraft:ghast_tear"
+				id: "1336E68AC6C1E494"
+				type: "kill"
+				value: 25L
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			id: "54700881D79504EA"
+			rewards: [{
+				count: 2
+				id: "0B16985EA1864B14"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:guardian"
+				icon: "minecraft:prismarine_shard"
+				id: "7BAAFBFBFD3E15C7"
+				type: "kill"
+				value: 25L
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			id: "3FEAEA01776EEDE1"
+			rewards: [
+				{
+					count: 5
+					id: "65205F94894893AE"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "35A2C10C05E775A6"
+					item: "modminds:dedita_azul_owleaf"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "53E81DEB3874E482"
+					item: "modminds:dedita_naranja"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:elder_guardian"
+				icon: "minecraft:sponge"
+				id: "5399F3FF57E91BF9"
+				type: "kill"
+				value: 3L
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			id: "26A2307A8681D702"
+			rewards: [{
+				count: 3
+				id: "6C7939958FC0A58B"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:hoglin"
+				icon: "minecraft:porkchop"
+				id: "7C328B52BE2870AF"
+				type: "kill"
+				value: 20L
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "677BB801DC12CA8F"
+			rewards: [
+				{
+					count: 5
+					id: "7024FB609AB899F5"
+					item: "modminds:dedita_azul"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "2335598F20E626CD"
+					item: "modminds:dedita_azul_owleaf"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "12EBE5AAE11E9CFA"
+					item: "modminds:dedita_naranja"
+					type: "item"
+				}
+				{
+					id: "2E440A1D1BCF7F04"
+					item: "minecraft:totem_of_undying"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:evoker"
+				icon: "minecraft:totem_of_undying"
+				id: "1A2AF1B49901287B"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			id: "44CC8C0751F5FB82"
+			rewards: [{
+				count: 2
+				id: "194AE0D2B5E5FDB8"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:silverfish"
+				icon: "minecraft:infested_mossy_stone_bricks"
+				id: "697AE075340F6AE7"
+				type: "kill"
+				value: 25L
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "1E3183B21826CB20"
+			rewards: [{
+				count: 3
+				id: "03E7F26A76708E47"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:piglin_brute"
+				icon: {
+					Count: 1
+					id: "minecraft:golden_axe"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "0918DA88F9E6D1D6"
+				type: "kill"
+				value: 5L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "33AA2685DE83F1CC"
+			rewards: [{
+				count: 2
+				id: "2DC517D71E62AEFA"
+				item: "modminds:dedita_azul"
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:pillager"
+				icon: {
+					Count: 1
+					id: "minecraft:crossbow"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "04F3C9DAE0039531"
+				type: "kill"
+				value: 50L
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+	]
+	title: "Misiones Secundarias"
+}

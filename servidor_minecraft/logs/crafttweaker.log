@@ -1,0 +1,30 @@
+[22:18:04.351][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[22:18:04.383][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[22:18:04.441][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[22:18:04.472][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[22:18:04.473][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[22:18:05.700][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[22:18:05.705][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.59'
+[22:18:05.705][INFO][CraftTweaker]: - 'farmersdelight' at version '1.20.1-1.2.9'
+[22:18:05.705][INFO][CraftTweaker]: - 'structurecompass' at version '2.2.0'
+[22:18:14.076][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[22:18:14.738][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:18:14.783][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[22:18:14.896][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[22:18:24.044][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[22:18:24.080][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:18:24.101][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[22:18:24.117][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[22:18:27.107][INFO][CraftTweaker]: crafttweaker.reload.start
+[22:18:27.116][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[22:18:27.161][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:18:27.712][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[22:18:27.716][INFO][CraftTweaker-ZenCode]: Loading file 'Cuchara_resurrecion.zs' with priority 0
+[22:18:27.716][INFO][CraftTweaker-ZenCode]: Loading file 'Tenedor_resurrecion.zs' with priority 0
+[22:18:27.717][INFO][CraftTweaker-ZenCode]: Loading file 'tenedor_normal.zs' with priority 0
+[22:18:27.750][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:cuchara_resurreccion' that outputs: '<item:modminds:cuchara_de_resurreccion>'
+[22:18:27.751][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:tenedor_resurreccion' that outputs: '<item:modminds:tenedor_de_resurreccion>'
+[22:18:27.751][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:tenedor_normal' that outputs: '<item:modminds:tenedor_normal>'
+[22:18:27.751][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[22:18:27.753][INFO][CraftTweaker]: crafttweaker.reload.complete
+[22:18:27.753][INFO][CraftTweaker]: This reload was made possible by Jellycraft and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

@@ -1,0 +1,1 @@
+scoreboard objectives add muerte minecraft.custom:minecraft.deaths

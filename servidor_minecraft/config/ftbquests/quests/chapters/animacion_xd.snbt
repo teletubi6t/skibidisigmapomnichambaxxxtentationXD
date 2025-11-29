@@ -1,0 +1,23 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "animacion_xd"
+	group: "53A6A40282122CB0"
+	id: "52CC765428197939"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		can_repeat: true
+		id: "57B6FEB1C6B9EF27"
+		require_sequential_tasks: true
+		tasks: [{
+			id: "14330E0E8305B08D"
+			stat: "minecraft:time_since_death"
+			type: "stat"
+			value: 1
+		}]
+		x: -1.5d
+		y: -2.0d
+	}]
+	title: "animacion xd"
+}

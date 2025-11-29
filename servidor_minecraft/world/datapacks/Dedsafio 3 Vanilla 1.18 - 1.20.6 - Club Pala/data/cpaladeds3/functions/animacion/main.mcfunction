@@ -1,0 +1,9 @@
+execute as @a[tag=anim.muerte] at @s run function cpaladeds3:animacion/muerte
+execute as @a[tag=anim.ruleta.amarilla] at @s run function cpaladeds3:animacion/ruleta/amarilla
+execute as @a[tag=anim.ruleta.azul] at @s run function cpaladeds3:animacion/ruleta/azul
+execute as @a[tag=anim.ruleta.morada] at @s run function cpaladeds3:animacion/ruleta/morada
+execute as @a[tag=anim.ruleta.naranja] at @s run function cpaladeds3:animacion/ruleta/naranja
+execute as @a[tag=anim.ruleta.roja] at @s run function cpaladeds3:animacion/ruleta/roja
+execute as @a[tag=anim.ruleta.rosada] at @s run function cpaladeds3:animacion/ruleta/rosada
+execute as @a[tag=anim.ruleta.turqueza] at @s run function cpaladeds3:animacion/ruleta/turqueza
+execute as @a[tag=anim.ruleta.verde] at @s run function cpaladeds3:animacion/ruleta/verde

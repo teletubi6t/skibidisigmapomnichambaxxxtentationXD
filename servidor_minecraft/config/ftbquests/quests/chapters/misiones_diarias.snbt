@@ -1,0 +1,186 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misiones_diarias"
+	group: ""
+	id: "0409EC28C9A5F0ED"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "00EE5C2123BC225E"
+		rewards: [{
+			id: "27E432716B14A82D"
+			item: {
+				Count: 1
+				id: "minecraft:shulker_box"
+				tag: {
+					BlockEntityTag: {
+						CustomName: "{\"text\":\"Mision 1\"}"
+						ForgeCaps: { }
+						Items: [
+							{
+								Count: 1b
+								Slot: 1b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 1b
+								Slot: 2b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 5b
+								Slot: 3b
+								id: "modminds:dedita_naranja"
+							}
+							{
+								Count: 1b
+								Slot: 4b
+								id: "modminds:nutritotem"
+							}
+							{
+								Count: 5b
+								Slot: 5b
+								id: "modminds:dedita_naranja"
+							}
+							{
+								Count: 1b
+								Slot: 6b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 1b
+								Slot: 7b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 1b
+								Slot: 10b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 4b
+								Slot: 11b
+								id: "minecraft:golden_apple"
+							}
+							{
+								Count: 1b
+								Slot: 12b
+								id: "modminds:nutritotem"
+							}
+							{
+								Count: 2b
+								Slot: 13b
+								id: "modminds:dedita_azul_owleaf"
+							}
+							{
+								Count: 1b
+								Slot: 14b
+								id: "modminds:nutritotem"
+							}
+							{
+								Count: 5b
+								Slot: 15b
+								id: "minecraft:golden_apple"
+							}
+							{
+								Count: 1b
+								Slot: 16b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 1b
+								Slot: 19b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 1b
+								Slot: 20b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 3b
+								Slot: 21b
+								id: "minecraft:golden_apple"
+							}
+							{
+								Count: 5b
+								Slot: 22b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 4b
+								Slot: 23b
+								id: "minecraft:golden_apple"
+							}
+							{
+								Count: 1b
+								Slot: 24b
+								id: "modminds:dedita_azul"
+							}
+							{
+								Count: 1b
+								Slot: 25b
+								id: "modminds:dedita_azul"
+							}
+						]
+						id: "minecraft:shulker_box"
+					}
+					display: {
+						Name: "{\"text\":\"Mision 1\"}"
+					}
+				}
+			}
+			type: "item"
+		}]
+		tasks: [
+			{
+				id: "5BC3F456300D3308"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "7F9595D4E4A12E37"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "38215ECD9E593371"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+			{
+				id: "4B6B5C4AFC219A7E"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}
+		]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Misiones de 3-4 dias"
+}
